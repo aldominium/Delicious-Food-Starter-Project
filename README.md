@@ -1,1 +1,1 @@
-# Delicious Food Starter Project
+# Delicious Food
